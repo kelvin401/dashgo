@@ -50,7 +50,7 @@ export default function UserList() {
                 <Td>
                   <Box>
                     <Text fontWeight='bold'>Kelvin Carvalho</Text>
-                    <Text fontSize='sm' color='gray.500'>kelvin_carvalhos@hotmail.com</Text>
+                    <Text fontSize='sm' color='gray.500'>kelvin.nirvana@gmail.com</Text>
                   </Box>
                 </Td>
                 <Td>
@@ -77,7 +77,7 @@ export default function UserList() {
                 <Td>
                   <Box>
                     <Text fontWeight='bold'>Kelvin Carvalho</Text>
-                    <Text fontSize='sm' color='gray.500'>kelvin_carvalhos@hotmail.com</Text>
+                    <Text fontSize='sm' color='gray.500'>kelvin.nirvana@gmail.com</Text>
                   </Box>
                 </Td>
                 <Td>
@@ -104,7 +104,7 @@ export default function UserList() {
                 <Td>
                   <Box>
                     <Text fontWeight='bold'>Kelvin Carvalho</Text>
-                    <Text fontSize='sm' color='gray.500'>kelvin_carvalhos@hotmail.com</Text>
+                    <Text fontSize='sm' color='gray.500'>kelvin.nirvana@gmail.com</Text>
                   </Box>
                 </Td>
                 <Td>

@@ -12,7 +12,7 @@ export default function Profile({ showProfileData = true }: ProfileProps) {
         <Text
           color='gray.500'
           fontSize='small'>
-          kelvin_carvalhos@hotmail.com
+          kelvin.nirvana@gmail.com
         </Text>
       </Box>)}
 
